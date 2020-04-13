@@ -1,10 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="8px" height="8px" viewBox="0 0 8 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
-    <title>ico-stop</title>
-    <desc>Created with Sketch.</desc>
-    <g id="ico" stroke="none" stroke-width="1" fill-rule="evenodd">
-        <rect id="Rectangle" x="1" y="1" width="6" height="6"></rect>
-        <polyline id="Path" stroke="#676E8A" transform="translate(0.656854, 12.656854) rotate(-135.000000) translate(-0.656854, -12.656854) " points="-3.34314575 16.6568542 -3.34314575 8.65685425 -3.34314575 8.65685425 4.65685425 8.65685425"></polyline>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="8" height="8" version="1.1" viewBox="0 0 8 8"><title>ico-stop</title><desc>Created with Sketch.</desc><g id="ico" fill-rule="evenodd" stroke="none" stroke-width="1"><rect id="Rectangle" width="6" height="6" x="1" y="1"/><polyline id="Path" stroke="#676E8A" points="-3.343 16.657 -3.343 8.657 -3.343 8.657 4.657 8.657" transform="translate(0.656854, 12.656854) rotate(-135.000000) translate(-0.656854, -12.656854)"/></g></svg>
